@@ -1,0 +1,2 @@
+widget.debug,widget.title,widget.namew,widget.width,widget.height,widget.src,widget.namei,widget.hOffsety,widget.vOffsety,widget.alignmentt,widget.data,widget.size,widget.style,widget.name,widget.hOffset,widget.vOffset,widget.alignment,widget.onMouseUp
+on,Sample Konfabulator Widget,main_window,500,500,Images/Sun.png,sun1,250,250,center,Click Here,36,bold,text1,250,100,center,sun1.opacity = (sun1.opacity / 100) * 90;
